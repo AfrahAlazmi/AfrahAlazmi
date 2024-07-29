@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afrah</h1>
 <h3 align="center">A passionate Computer Enginner from Kuwait</h3>
 
-<img aligen="right" alt="Coding" width="400" scr=""> 
+<img aligen="right" alt="Coding" width="400" scr="https://i.pinimg.com/originals/62/e4/4a/62e44ad3bfd439404ef233aa79b11faf.png"> 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afrahalazmi&label=Profile%20views&color=0e75b6&style=flat" alt="afrahalazmi" /> </p>
 
