@@ -24,7 +24,7 @@
 
 <p align="left"> <a href="https://twitter.com/iminpiecesx" target="blank"><img src="https://img.shields.io/twitter/follow/iminpiecesx?logo=twitter&style=for-the-badge" alt="iminpiecesx" /></a> </p>
 
-----------
+
 # 💻 Tech Stack
 - 🤖 Artificial Intelligence
 
@@ -110,14 +110,14 @@
 ![Raspberry PI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![Cisco](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-- Terminal & Virtualization
+- 💻 Terminal & Virtualization
 
 
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Virtual Box](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 
-----------
+# Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrahalazmi&show_icons=true&locale=en&layout=compact" alt="afrahalazmi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afrahalazmi&show_icons=true&locale=en" alt="afrahalazmi" /></p>
